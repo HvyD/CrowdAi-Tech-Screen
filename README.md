@@ -9,4 +9,4 @@ Validate Brackets
 
 
 #### What I think was really wanted:
-**[Check For Balanced Parentheses](/Check For Balanced Parentheses.py) 
+**[Check For Balanced Parentheses](Check For Balanced Parentheses.py)**
